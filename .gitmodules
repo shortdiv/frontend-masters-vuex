@@ -1,0 +1,18 @@
+[submodule "vuex-compose-actions"]
+	path = vuex-compose-actions
+	url = git@github.com:shortdiv/vuex-compose-actions.git
+[submodule "vuex-static-vs-dynamic-modules"]
+	path = vuex-static-vs-dynamic-modules
+	url = git@github.com:shortdiv/vuex-static-vs-dynamic-modules
+[submodule "vuex-plugin"]
+	path = vuex-plugin
+	url = git@github.com:shortdiv/vuex-plugin
+[submodule "vuex-modules"]
+	path = vuex-modules
+	url = git@github.com:shortdiv/vuex-modules
+[submodule "vuex-and-router"]
+	path = vuex-and-router
+	url = git@github.com:shortdiv/vuex-and-router
+[submodule "vuex-normalize-state"]
+	path = vuex-normalize-state
+	url = git@github.com:shortdiv/vuex-normalize-state
