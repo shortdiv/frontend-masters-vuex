@@ -16,3 +16,6 @@
 [submodule "vuex-normalize-state"]
 	path = vuex-normalize-state
 	url = git@github.com:shortdiv/vuex-normalize-state
+[submodule "vuex-sfc"]
+	path = vuex-sfc
+	url = git@github.com:shortdiv/vuex-sfc
