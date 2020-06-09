@@ -13,6 +13,12 @@ All code is available on this repo, exercises are saved in submodules so be sure
 git clone --recurse-submodules https://github.com/shortdiv/frontend-masters-vuex.git
 ```
 
+### Troubleshooting
+If things seem outdated, try updating submodules with this command: 
+```
+git submodule update --init --recursive
+```
+
 ## Slides:
 - [Vuex 1: Introduction to State Management](https://slides.com/shortdiv/vuex-1)
 - [Vuex 2: Vuex; The Good Parts—State, Getters, Actions, Mutations](https://slides.com/shortdiv/vuex-2)
