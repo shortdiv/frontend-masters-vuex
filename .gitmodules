@@ -1,21 +1,28 @@
 [submodule "vuex-compose-actions"]
 	path = vuex-compose-actions
 	url = git@github.com:shortdiv/vuex-compose-actions.git
+	branch = step-0
 [submodule "vuex-static-vs-dynamic-modules"]
 	path = vuex-static-vs-dynamic-modules
 	url = git@github.com:shortdiv/vuex-static-vs-dynamic-modules
+	branch = step-0
 [submodule "vuex-plugin"]
 	path = vuex-plugin
 	url = git@github.com:shortdiv/vuex-plugin
+	branch = master
 [submodule "vuex-modules"]
 	path = vuex-modules
 	url = git@github.com:shortdiv/vuex-modules
+	branch = step-0
 [submodule "vuex-and-router"]
 	path = vuex-and-router
 	url = git@github.com:shortdiv/vuex-and-router
+	branch = step-0
 [submodule "vuex-normalize-state"]
 	path = vuex-normalize-state
 	url = git@github.com:shortdiv/vuex-normalize-state
+	branch = step-0
 [submodule "vuex-sfc"]
 	path = vuex-sfc
 	url = git@github.com:shortdiv/vuex-sfc
+	branch = step-0
