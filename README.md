@@ -72,6 +72,8 @@ Let's create isRestocking state in Vuex that gets toggled on fetchInventory http
 - Exercise 3: Modify to use subscribeAction (before/after) that listen for action change and register the frequency change `vuex-plugin[end-state]`
 
 ### Vuex + Vue Router
+- Exercise 1: In the `admin` route, create a per-route navigation guard `vuex-and-router[step-0]`
+- Exercise 2: In the routes file, add metadata to `admin` and `inventory` and create a global navigation guard that checks whether a user is logged in `vuex-and-router[step-1]`
 
 ### Normalize Vuex State (Local Editor)
 - Exercise 1: Let's create a model of Machine in Vuex ORM `vuex-normalize-state[step-0]`
