@@ -48,6 +48,8 @@ Included in this repo are some very basic starter kits.
 - [Vuex docs](https://vuex.vuejs.org/en/)
 - [Understanding Vue 3 Closures](https://www.youtube.com/watch?v=KJP1E-Y-xyo)
 
+## VS Code Extensions
+https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-extensionpack
 
 ## License
 
