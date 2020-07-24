@@ -29,7 +29,6 @@ git submodule update --init --recursive
 - [Vuex 7: Vuex + Vue Router](https://slides.com/shortdiv/vuex-7/)
 
 Bonus Content! 
-- [Vue 3 aka you might not need Vuex](https://slides.com/shortdiv/vue-3-aka-you-might-not-need-vuex/edit)
 - [Vue 3](https://noti.st/shortdiv/mqzBEX/at-vues-end#sdD4BHq)
 
 ## Exercises:
