@@ -2,7 +2,7 @@
 
 Materials for the State Management with Vuex Course
 
-Author: Divya Tagtachian
+Author: Divya S
 
 Here are the [Vue chrome devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en)
 
